@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sujan Khadka
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on ReactJS projects
+- 🌱 I’m currently learning Angular
+- 💞️ I’m looking to collaborate on Angular projects
 - 📫 How to reach me thenamessuzan@gmail.com
 
 <!---
